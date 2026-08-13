@@ -7,4 +7,4 @@
 
 ## About This Repository
 
-This repository contains my Cloud Computing course activities, laboratory exercises, technical documentation, and related projects for CCM101.
+This repository is for my Cloud Computing course projects for CCM101.
