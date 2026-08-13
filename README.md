@@ -1,8 +1,10 @@
-# CCM101-Cloud-Computing
-Cloud Computing course portfolio and laboratory activities
+# CCM101 - Cloud Computing
 
-Bodkaen Jan Allen D.
+## Student Information
 
-BSIT 4M
+**Name:** Bodkaen Jan Allen D.  
+**Course and Section:** BSIT 4M
 
-Compilation and portfolio for 4th year.
+## About This Repository
+
+This repository contains my Cloud Computing course activities, laboratory exercises, technical documentation, and related projects for CCM101.
